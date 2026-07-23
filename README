@@ -1,0 +1,32 @@
+README 추가용 링크
+기존 README 하단에 아래 내용을 추가하세요.
+```markdown
+## 제출 문서
+
+### 모델 비교
+- [공통 비교 프롬프트](01_Model_Comparison/Common_Prompt.md)
+- [모델 비교 보고서](01_Model_Comparison/Model_Comparison_Report.md)
+- [모델 평가표](01_Model_Comparison/Evaluation_Table.md)
+- [ChatGPT Free 실행 증빙](01_Model_Comparison/ChatGPT_Free_Evidence.md)
+- [Claude Free 실행 증빙](01_Model_Comparison/Claude_Free_Evidence.md)
+- [Gemini Free 실행 증빙](01_Model_Comparison/Gemini_Free_Evidence.md)
+
+### 프롬프트 설계
+- [V1 프롬프트](02_Prompt_Design/V1_Prompt.md)
+- [V2 프롬프트](02_Prompt_Design/V2_Prompt.md)
+- [V1·V2 비교](02_Prompt_Design/V1_V2_Comparison.md)
+- [최종 시스템 프롬프트](02_Prompt_Design/Final_System_Prompt.md)
+- [Few-shot 예시](02_Prompt_Design/FewShot_Examples.md)
+
+### 환각 검증
+- [환각 검증 결과](03_Hallucination_Test/Hallucination_Test.md)
+- [환각 검증 실행 로그](03_Hallucination_Test/Hallucination_Log.md)
+- [프롬프트 수정](03_Hallucination_Test/Prompt_Modification.md)
+- [재시험 결과](03_Hallucination_Test/Retest_Result.md)
+
+### 문맥 유지
+- [10턴 원본 대화](04_Context_Retention/Conversation_Log.md)
+- [문맥 유지 평가](04_Context_Retention/Context_Evaluation.md)
+- [문제 수정](04_Context_Retention/Problem_Fix.md)
+- [재시험 결과](04_Context_Retention/Retest_Response.md)
+```
